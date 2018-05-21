@@ -1,0 +1,5 @@
+{
+    "require": {
+        "x-fran/g-trends": "^1.0"
+    }
+}

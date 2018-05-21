@@ -1,0 +1,5 @@
+version: 1
+cron:
+ - name: "updatevalues"
+   url: "/updatevalues.php"
+   schedule: "0 * * * *"
